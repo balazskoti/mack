@@ -5,7 +5,7 @@
     "url": "git+https://github.com/balazskoti/mack.git"
   },
   "private": false,
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Converts Markdown to Slack BlockKit Blocks",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
