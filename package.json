@@ -2,7 +2,7 @@
   "name": "@bkoti/mack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/balazskoti/mack.git"
+    "url": "git+https://github.com/balazskoti/mack.git"
   },
   "version": "1.2.2",
   "description": "Converts Markdown to Slack BlockKit Blocks",
