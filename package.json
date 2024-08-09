@@ -1,10 +1,10 @@
 {
-  "name": "@tryfabric/mack",
+  "name": "@bkoti/mack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tryfabric/mack.git"
+    "url": "https://github.com/balazskoti/mack.git"
   },
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Converts Markdown to Slack BlockKit Blocks",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
